@@ -1,0 +1,17 @@
+{
+  "search": "Search",
+  "persons": "Persons",
+  "delete": "Do you want delete?",
+  "yes": "Yes",
+  "create": "New Register",
+  "notes": "Notes",
+  "noNote": "There is nothing",
+  "detailPage": "Detail Page",
+  "noteCreatePage": "Note Register Page",
+  "noteTitle": "Note Title",
+  "noteContent": "Note Content",
+  "update": "Update",
+  "personName": "Person Name",
+  "personTel": "Person Tel",
+  "save": "Save"
+}

@@ -1,0 +1,17 @@
+{
+  "search": "Ara",
+  "persons": "Kişiler",
+  "delete": "Silmek istiyor musunuz?",
+  "yes": "Evet",
+  "create": "Yeni kayıt",
+  "notes": "Notlar",
+  "noNote": "Kayıt yok",
+  "detailPage": "Detay Sayfa",
+  "noteCreatePage": "Not Kayıt Sayfa",
+  "noteTitle": "Not Konusu",
+  "noteContents": "Not İçerik",
+  "update": "Güncelle",
+  "personName": "Kişi Adı",
+  "personTel": "Kişi Tel",
+  "save": "Kaydet"
+}
